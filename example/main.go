@@ -1,8 +1,8 @@
 package main
 
 import (
-	"consistenthash"
 	"fmt"
+	"github.com/shgang97/consistenthash"
 	"log"
 	"time"
 )

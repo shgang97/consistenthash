@@ -1,4 +1,4 @@
-module consistenthash
+module github.com/shgang97/consistenthash
 
 go 1.25.0
 
